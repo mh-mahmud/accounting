@@ -1,0 +1,6 @@
+Unauthorized_access~AMBIGUOUS~2016-05-02 12:49:12
+Login_success~1~2016-05-02 12:49:20
+Signed_out~AMBIGUOUS~2016-05-02 01:15:30
+Login_success~1~2016-05-02 01:15:38
+Inactive_category~1~2016-05-02 01:19:58
+Signed_out~AMBIGUOUS~2016-05-02 01:21:04

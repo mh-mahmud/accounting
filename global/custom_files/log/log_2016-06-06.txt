@@ -1,0 +1,15 @@
+Unauthorized_access~AMBIGUOUS~2016-06-06 12:41:50
+Login_success~1~2016-06-06 12:42:31
+Edit_student_data~1~2016-06-06 12:54:06
+Edit_person~1~2016-06-06 01:17:21
+Edit_person~1~2016-06-06 01:17:31
+Student_updated+-+1~1~2016-06-06 01:17:31
+Edit_student_data~1~2016-06-06 01:26:13
+Inactive_student_data~1~2016-06-06 01:30:37
+Active_student_data~1~2016-06-06 01:31:00
+Edit_student_data~1~2016-06-06 01:31:04
+Edit_student_data~1~2016-06-06 01:31:17
+Student_updated+-+1~1~2016-06-06 01:31:17
+Edit_student_data~1~2016-06-06 01:31:41
+Edit_student_data~1~2016-06-06 01:31:48
+Student_updated+-+1~1~2016-06-06 01:31:48

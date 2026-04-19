@@ -1,0 +1,5 @@
+Login_success~1~2016-10-17 10:47:47
+Signed_out~AMBIGUOUS~2016-10-17 12:05:05
+Login_success~1~2016-10-17 12:05:12
+Signed_out~AMBIGUOUS~2016-10-17 12:06:00
+Login_success~1~2016-10-17 12:06:46

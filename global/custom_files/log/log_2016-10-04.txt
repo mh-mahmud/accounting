@@ -1,0 +1,4 @@
+Login_success~1~2016-10-04 11:12:16
+Edit_class_routine~1~2016-10-04 05:02:21
+Edit_class_routine~1~2016-10-04 07:07:35
+Signed_out~AMBIGUOUS~2016-10-04 07:28:06

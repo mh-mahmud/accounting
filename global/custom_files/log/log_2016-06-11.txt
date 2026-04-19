@@ -1,0 +1,13 @@
+Login_success~1~2016-06-11 01:22:02
+Signed_out~AMBIGUOUS~2016-06-11 01:22:15
+Unauthorized_access~AMBIGUOUS~2016-06-11 01:22:23
+Login_success~1~2016-06-11 01:22:28
+Inactive_additional_data~1~2016-06-11 01:23:45
+Login_success~1~2016-06-11 01:24:30
+Edit_notice~1~2016-06-11 01:40:50
+Active_grade~1~2016-06-11 01:41:29
+Edit_notice~1~2016-06-11 01:41:54
+Edit_notice~1~2016-06-11 01:42:34
+Exam_updated+-+1~1~2016-06-11 01:42:34
+Inactive_class~1~2016-06-11 01:43:42
+Active_class~1~2016-06-11 01:43:44
